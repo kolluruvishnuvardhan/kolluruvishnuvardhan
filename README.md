@@ -12,7 +12,7 @@ I'm a passionate B.Tech student at VIT AP University, specializing in Java, OOP,
 - Winner of WebRevamp Hackathon (CSI VIT AP) – Developed a Reddit-like website for enhanced user experience.
 - Developed an Efficient Traffic Signal Management System – Implemented a vehicle detection system with signaling using OpenCV.
 - Founder & CEO of RiceLink Solutions – A startup connecting paddy farmers directly with consumers.
-- 96.2 percentile in JEE Mains – Strong academic background with problem-solving expertise.
+- Top 3% in JEE Mains – Strong academic background with problem-solving expertise.
 
 📌 Notable Projects
 🚦 Efficient Traffic Signal Management System
