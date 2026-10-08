@@ -5,6 +5,7 @@ I'm a passionate B.Tech student at VIT AP University, specializing in Java, OOP,
 
 💻 Technical Skills
 - Programming Languages: Java, Python, C++, C
+- Machine learning, deep learning, PyTorch, LLM's, RAG
 - Web Development: HTML, CSS, JavaScript, React
 - Tools & Platforms: Git, GitHub
 
